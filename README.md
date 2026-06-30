@@ -104,10 +104,6 @@ A Spring Boot RESTful system for managing conferences, sessions, users, authenti
 
 ---
 
-
-
----
-
 ## 🤝 Let's Work Together
 
 I am available for **remote freelance / contract projects** related to:
