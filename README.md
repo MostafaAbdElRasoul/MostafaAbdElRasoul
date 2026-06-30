@@ -104,15 +104,7 @@ A Spring Boot RESTful system for managing conferences, sessions, users, authenti
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaAbdElRasoul&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAbdElRasoul&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
